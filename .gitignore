@@ -1,0 +1,36 @@
+﻿*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*~
+*.log
+*.db
+
+# netbeans 产生文件
+nbactions.xml
+nb-configuration.xml
+
+# eclipse 产生文件
+.project
+.classpath
+.settings/
+.metadata/
+
+# 忽略 target/ 目录下的所有文件
+target/
+
+# 忽略 target/ 目录下的所有文件
+errorlog/
+
+# Sap RFC
+*.trc
+/target
