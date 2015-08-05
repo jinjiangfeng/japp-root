@@ -414,4 +414,7 @@
             </properties>
         </profile>
     </profiles>
+    <modules>
+        <module>japp-tools</module>
+    </modules>
 </project>
